@@ -1,9 +1,9 @@
 # Get Your Toy
 
-This is a game created using [MakeCode Arcade](https://arcade.makecode.com) for Global Game Jam 2021 by my son and I.
+This is a game created using [MakeCode Arcade](https://arcade.makecode.com) for Global Game Jam 2021 by my 9 year old son and I.
 You can [play the game by going here](https://makecode.com/_5Yr2A9iUFF0A).
 
-This game is dedicated to our dog Molly, who passed away a couple weeks before the game jam.
+This game is dedicated to our dog Molly (brown dog in picture below), who passed away a couple weeks before the game jam.
 We will forever miss her.
 
 ![Molly and Huey](docs/Images/MollyAndHuey.jpg)
