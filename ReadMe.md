@@ -7,6 +7,8 @@ Collect treats and bones along the way, and try to be as quick as possible to ea
 You can [play the game by going here](https://makecode.com/_5Yr2A9iUFF0A).
 The only controls are the arrow keys to move your dog.
 
+![Screenshot](docs/Images/Screenshot.png)
+
 ## Technology and credits
 
 This game was created using [MakeCode Arcade](https://arcade.makecode.com) for [Global Game Jam](https://globalgamejam.org) 2021 by my 9 year old son and I.
